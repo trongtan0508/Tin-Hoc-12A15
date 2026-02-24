@@ -5,14 +5,14 @@
 }
 .header{
      flex: 20%;
-     background-color:lightgray;
+     background-color: lightgray;
 }
 .menu{
     flex: 5%
     d¶kgrey
 ]
 .content{
-    flex: 5%
+    flex: 70%
   background-color: white;
 }
 .footer{

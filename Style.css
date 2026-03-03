@@ -4,17 +4,18 @@
     height: 100vh;
 }
 .header{
-     flex: 20%;
+     flex: 15%;
      background-color: lightgray;
+     background : url ("images/logoNQ.png") center 100% 100% ;
 }
 .menu{
     flex: 5%
     background-color: darkgray;
     display: flex;
-    align-items: center;
+    
 ]
 .menu a{
-    padding: 15px 20px;
+    padding: 15px 20px; 
     color: magenta;
 }
 .menu hover{

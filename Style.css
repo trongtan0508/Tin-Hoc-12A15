@@ -9,7 +9,7 @@
      background : url ("images/logoNQ.png") center 100% 100% ;
 }
 .menu{
-    flex: 5%
+    flex: 5%;
     background-color: darkgray;
     display: flex;
     
@@ -23,7 +23,7 @@
     color: black;
 }
 .content{
-    flex: 70%
+    flex: 70%;
   background-color: white;
 }
 .content iframe{
@@ -33,7 +33,7 @@
     height: 100%;
 }       
 .footer{
-    flex: 5%
+    flex: 5%;
     background-color: lightgray;
 }
 .tieude {

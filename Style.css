@@ -11,11 +11,11 @@
     flex: 5%
     background-color: darkgray;
     display: flex;
-    align-items: centre;
+    align-items: center;
 ]
 .menu a{
     padding: 15px 20px;
-    color: pink;
+    color: magenta;
 }
 .menu hover{
     background-color: lightgray;
@@ -35,10 +35,6 @@
     flex: 5%
     background-color: lightgray;
 }
-  
-.h1 {
-  color: red;
-}
 .tieude {
  color: tomato;
 font-weight: bold;
@@ -48,4 +44,16 @@ font-size: 20pt;
  color: black;
 font-style: normal;
 font-size: 14pt;
+}
+.backup{
+    color: D11111;
+    font-weight: bold;
+    font-size: 25pt;
+    text-align: center;
+}
+.word{
+    color: black;
+    font-weight: bold;
+    font-size: 15pt;
+    text-align: center;
 }
